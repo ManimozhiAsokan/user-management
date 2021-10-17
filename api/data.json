@@ -1,0 +1,48 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 250,
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.HySrCJe7ATbkNjvwko8rwQHaIZ&pid=Api&P=0&w=300&h=300",
+      "details": "This is good and red color apple with extra energy"
+    },
+    {
+      "id": 2,
+      "name": "Milk",
+      "price": 20,
+      "photo": "https://33q47o1cmnk34cvwth15pbvt120l-wpengine.netdna-ssl.com/wp-content/uploads/raw-milk-1-e1563894986431-755x1024.jpg",
+      "details": "This Milk is by Nandhini Products"
+    },
+    {
+      "name": "Rice",
+      "price": "50",
+      "photo": "https://hips.hearstapps.com/vidthumb/images/delish-u-rice-2-1529079587.jpg",
+      "details": "Do not eat too much rice....",
+      "id": 4
+    },
+    {
+      "name": "ladysfinger",
+      "price": "30",
+      "photo": "https://5.imimg.com/data5/EP/YS/MY-3966004/lady-fingers-500x500.jpg",
+      "details": "good for health",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 250,
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.HySrCJe7ATbkNjvwko8rwQHaIZ&pid=Api&P=0&w=300&h=300",
+      "details": "This is good and red color apple with extra energy"
+    },
+    {
+      "id": 2,
+      "name": "Milk",
+      "price": 20,
+      "photo": "https://33q47o1cmnk34cvwth15pbvt120l-wpengine.netdna-ssl.com/wp-content/uploads/raw-milk-1-e1563894986431-755x1024.jpg",
+      "details": "This Milk is by Nandhini Products"
+    }
+  ]
+}
